@@ -14,8 +14,6 @@
 </div>
 
 ---
-
-
 ## 🚀 About Me
 
 ```python
@@ -78,7 +76,8 @@ amit = AmitKumar()
 print(f"👋 Hello! I'm {amit.name}")
 print(f"🚀 Currently: {amit.role}")
 print(f"📍 Location: {amit.location}")
-'''
+```
+----
 
 ## 🛠️ Tech Stack & Tools
 
