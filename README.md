@@ -16,7 +16,6 @@
 ---
 ## 🚀 About Me
 
-```python
 class AmitKumar:
     def __init__(self):
         self.name = "Amit Kumar"
@@ -76,7 +75,7 @@ amit = AmitKumar()
 print(f"👋 Hello! I'm {amit.name}")
 print(f"🚀 Currently: {amit.role}")
 print(f"📍 Location: {amit.location}")
-```
+
 ----
 
 ## 🛠️ Tech Stack & Tools
