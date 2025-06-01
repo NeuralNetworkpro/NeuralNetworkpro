@@ -2,6 +2,7 @@
 
 # 🌐 Portfolio: [helloamit.in](https://helloamit.in/)
 
+
 <div align="center">
 
 # 👋 Hi, I'm Amit Kumar (@NeuralNetworkpro)
@@ -35,10 +36,22 @@ class AmitKumar:
     
     def expertise(self):
         return {
-            "ai_ml": ["LLMs", "RAG", "Computer Vision", "NLP", "Deep Learning"],
-            "frameworks": ["PyTorch", "TensorFlow", "LangChain", "Hugging Face"],
-            "cloud": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform"],
-            "tools": ["Git", "MLflow", "Weights & Biases", "FastAPI"]
+            "ai_ml": [
+                "LLMs", "RAG", "Computer Vision", 
+                "NLP", "Deep Learning"
+            ],
+            "frameworks": [
+                "PyTorch", "TensorFlow", "LangChain", 
+                "Hugging Face"
+            ],
+            "cloud": [
+                "AWS", "Azure", "Docker", 
+                "Kubernetes", "Terraform"
+            ],
+            "tools": [
+                "Git", "MLflow", "Weights & Biases", 
+                "FastAPI"
+            ]
         }
     
     def achievements(self):
@@ -58,6 +71,12 @@ class AmitKumar:
             "portfolio": "https://helloamit.in",
             "github": "https://github.com/NeuralNetworkpro"
         }
+
+# Initialize the profile
+amit = AmitKumar()
+print(f"👋 Hello! I'm {amit.name}")
+print(f"🚀 Currently: {amit.role}")
+print(f"📍 Location: {amit.location}")
 ```
 
 ## 🛠️ Tech Stack & Tools
@@ -252,14 +271,6 @@ This README showcases my expertise in AI/ML, professional achievements, and tech
 --->
 ```
 
-This README.md file includes:
 
-1. **Portfolio website prominently displayed** at the top as requested
-2. **Properly formatted markdown** with escaped backticks and correct syntax
-3. **Professional structure** with clear sections and visual hierarchy
-4. **Interactive elements** like GitHub stats, contribution graphs, and badges
-5. **Comprehensive content** covering all your achievements, skills, and projects
-6. **Modern design** with consistent theming and professional appearance
 
-The file follows GitHub README best practices[^1][^2] and includes all the essential information about your professional background, technical expertise, and achievements in AI/ML engineering.
 
