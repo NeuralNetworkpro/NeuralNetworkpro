@@ -14,8 +14,23 @@
 </div>
 
 ---
+# 🌐 Portfolio: [helloamit.in](https://helloamit.in/)
+
+<div align="center">
+
+# 👋 Hi, I'm Amit Kumar (@NeuralNetworkpro)
+
+### 🤖 Generative AI Consultant | 🧠 ML Engineer | ☁️ Cloud Practitioner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Systems;Transforming+Business+with+GenAI;4%2B+Years+in+Data+Science+%26+AI;MLOps+%26+Cloud+Architecture+Expert" alt="Typing SVG" />
+
+</div>
+
+---
+
 ## 🚀 About Me
 
+```python
 class AmitKumar:
     def __init__(self):
         self.name = "Amit Kumar"
@@ -75,7 +90,6 @@ amit = AmitKumar()
 print(f"👋 Hello! I'm {amit.name}")
 print(f"🚀 Currently: {amit.role}")
 print(f"📍 Location: {amit.location}")
-
 ----
 
 ## 🛠️ Tech Stack & Tools
