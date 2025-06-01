@@ -224,52 +224,7 @@ print(f"📍 Location: {amit.location}")
 
 </div>
 
----
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NeuralNetworkpro/NeuralNetworkpro/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-<div align="center">
-
-### 🚀 "Building the future, one AI model at a time"
-
-[![GitHub followers](https://img.shields.io/github/followers/NeuralNetworkpro?label=Follow&style=social)](https://github.com/NeuralNetworkpro)
-
-**⭐ Star my repositories if you find them useful!**
-
-</div>
-
----
-
-<details>
-<summary>📊 More GitHub Stats</summary>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeuralNetworkpro&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeuralNetworkpro&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NeuralNetworkpro&theme=tokyonight" />
-</div>
-
-</details>
-
-<!---
-NeuralNetworkpro/NeuralNetworkpro is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-This README showcases my expertise in AI/ML, professional achievements, and technical skills in a modern, engaging format.
---->
-```
 
 
 
