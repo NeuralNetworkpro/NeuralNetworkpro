@@ -65,15 +65,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Document Intelligence System](https://github-readme-stats.vercel.app/api/pin/?username=NeuralNetworkpro&repo=document-intelligence-system&theme=tokyonight)](https://github.com/NeuralNetworkpro/document-intelligence-system)
-[![RAQ Automation Platform](https://github-readme-stats.vercel.app/api/pin/?username=NeuralNetworkpro&repo=raq-automation-platform&theme=tokyonight)](https://github.com/NeuralNetworkpro/raq-automation-platform)
-
-</div>
-
 ### 🚀 Recent Work
 
 #### 🤖 Enterprise AI Solutions
