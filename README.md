@@ -15,6 +15,7 @@
 
 ---
 
+
 ## 🚀 About Me
 
 ```python
@@ -36,10 +37,22 @@ class AmitKumar:
     
     def expertise(self):
         return {
-            "ai_ml": ["LLMs", "RAG", "Computer Vision", "NLP", "Deep Learning"],
-            "frameworks": ["PyTorch", "TensorFlow", "LangChain", "Hugging Face"],
-            "cloud": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform"],
-            "tools": ["Git", "MLflow", "Weights & Biases", "FastAPI"]
+            "ai_ml": [
+                "LLMs", "RAG", "Computer Vision", 
+                "NLP", "Deep Learning"
+            ],
+            "frameworks": [
+                "PyTorch", "TensorFlow", "LangChain", 
+                "Hugging Face"
+            ],
+            "cloud": [
+                "AWS", "Azure", "Docker", 
+                "Kubernetes", "Terraform"
+            ],
+            "tools": [
+                "Git", "MLflow", "Weights & Biases", 
+                "FastAPI"
+            ]
         }
     
     def achievements(self):
@@ -59,6 +72,12 @@ class AmitKumar:
             "portfolio": "https://helloamit.in",
             "github": "https://github.com/NeuralNetworkpro"
         }
+
+# Initialize the profile
+amit = AmitKumar()
+print(f"👋 Hello! I'm {amit.name}")
+print(f"🚀 Currently: {amit.role}")
+print(f"📍 Location: {amit.location}")
 
 
 ## 🛠️ Tech Stack & Tools
